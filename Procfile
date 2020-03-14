@@ -1,1 +1,1 @@
-web: gunicorn shuaisite.wsgi
+web: gunicorn shuaisite.wsgi --log-file -
